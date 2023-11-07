@@ -18,9 +18,8 @@
 
 I'm a self-taught front end web developer. 
 
-I love Javascript, pair programming, and giving to/learning from communities of new AND experienced developers. I'd also enjoy learning UX/UI design. 
+I love Javascript, pair programming, and giving to/learning from communities of new AND experienced developers. I'd also enjoy learning UX/UI development. 
 
 I lead ParentStack, a discord community for parents that are trying to break into tech and coding in their (very rare) spare time.
 
-I am pursuing a career as a front end developer with a company with stellar culture and values that match my own. 
-Long term I believe I'd fit very well in a developer relations role, as I love working, connecting, and learning with people.
+I am pursuing a career as a front end developer (eventually full stack) with a company with stellar culture and values that match my own.
